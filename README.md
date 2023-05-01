@@ -7,4 +7,3 @@
 - 🌱 I’m currently learning Data Visulization, Machine Learning, Artificial Intelligence, NLP.
 - 💬 Ask me about topics related to Machine Learning.
 - 📫 How to reach me: Email id:- vannallitharun7@gmail.com
--->
